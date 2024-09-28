@@ -58,7 +58,7 @@ def main():
     salon = Salon()
 
     while True:
-        print("\nEyelash Salon Management")
+        print("\nIllenium Lash Salon Management")
         print("1. Add Customer")
         print("2. View Customer Recent Visit")
         print("3. Schedule Appointment")

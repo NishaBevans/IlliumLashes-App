@@ -1,3 +1,4 @@
+#Basic Framework for Application (Backend/Owner-View Oriented)
 class Customer:
     def __init__(self, name, phone):
         self.name = name
